@@ -1,10 +1,9 @@
 
-# SecureMe
+
+# SecureMe - https://t.me/secureMe_bot
 Chatbot for a better cyber hygiene today!
 
-https://t.me/secureMe_bot
-
-![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen) ![](https://img.shields.io/badge/license-MIT-green) 
+![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen) 
 
 [![](https://i.ibb.co/y4XBNVz/Secure-Me-banner.png)](https://i.ibb.co/y4XBNVz/Secure-Me-banner.png)
 
@@ -62,10 +61,6 @@ $ python ./Bot.py
 
 
 
-
-### Todos
-
- - coming soon
 
 
 
